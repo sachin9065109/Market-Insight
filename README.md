@@ -296,9 +296,9 @@ This project is licensed under the MIT License.
 
 AI • Machine Learning • Full Stack Development
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sachin9065109
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/sachin-bhagat-b3ab06353
 
 ---
 
